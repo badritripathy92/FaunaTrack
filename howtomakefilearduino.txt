@@ -1,0 +1,3 @@
+https://projecthub.arduino.cc/RVLAD/compile-arduino-sketches-with-makefile-e1d05d 
+
+https://hardwarefun.com/tutorials/compiling-arduino-sketches-using-makefile

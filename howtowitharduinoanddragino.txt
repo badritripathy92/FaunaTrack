@@ -1,0 +1,4 @@
+https://github.com/tum-gis/sensor-nodes/tree/master/dragino_lora_arduino_shield 
+
+
+https://github.com/dragino/Lora/blob/master/Lora%20GPS%20Shield/Examples/Lora%20GPS%20Tracker/Client/Client.ino     > more relevant
